@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 # Project Name: List Comprehension
 # File Name: List-Comprehension.py
 # Author: Erik Nahmad
